@@ -6,9 +6,9 @@ from getpass import getpass
 
 
 def send_email():
-    from_id = "praneethchandrathota@gmail.com"
-    to_id = "praneethchandra.chandra98@gmail.com"
-    password = "tpchandra@213"
+    from_id = "enter from email address"
+    to_id = "enter to email address"
+    password = "enter password of from email address"
 
     #print("opening the file")
 
